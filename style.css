@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+  background-image: linear-gradient(to bottom, #FF9933, #FFFFFF, #128807);
+}
+.navbar .navbar-nav .nav-link {
+    color: white;
+    font-size: 1.1em;
+  }
+  .img_swiper{
+    height: 603px;
+  }
+  
+
+
+
+  
+  @media screen and (min-width: 992px) {
+    .navbar .navbar-nav .nav-link {
+      padding: 0 0.5em;
+    }
+    .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
+      border-right: 3px solid #fff;
+    }
+  }
+@media(width <= 500px){
+  .img_swiper{
+    height: 300px;
+  }
+}
+
