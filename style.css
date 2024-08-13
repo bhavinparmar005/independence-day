@@ -28,7 +28,7 @@ body{
   }
 @media(width <= 500px){
   .img_swiper{
-    height: 300px;
+    height: 275px;
   }
 }
 
