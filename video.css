@@ -6,7 +6,7 @@
 body {
   background-image: linear-gradient(to bottom, #ff9933, #ffffff, #128807);
   background-repeat: no-repeat;
-  height: 100vh;
+  height: auto;
 }
 
 .right {
@@ -48,11 +48,11 @@ body {
     font-size: 1rem;
   }
   .hello1{
-    font-size: 1rem;
+    font-size: 1.3rem;
     height: auto;
   }
   .hello{
-    font-size: 1rem;
+    font-size: 1.3rem;
     height: auto;
   }
 
