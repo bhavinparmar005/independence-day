@@ -6,7 +6,7 @@
 body {
   background-image: linear-gradient(to bottom, #ff9933, #ffffff, #128807);
   background-repeat: no-repeat;
-  height: auto;
+  height: 100vh;
 }
 
 .right {
